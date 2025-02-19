@@ -1,10 +1,9 @@
-from: list to tuple
+From: list
 ```python
 mylist=[1,2,3]
 ```
 
-from: tuple to list
+To: tuple
 ```python
-mytuple = tuple(my_list)
-print(mylist
+( 1, 2, 3 )
 ```
