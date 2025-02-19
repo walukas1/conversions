@@ -16,5 +16,5 @@ From: tuple
 
 To: list
 ``` python
-('a', 1 )
+['a', 1 ]
 ```
