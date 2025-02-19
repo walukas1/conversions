@@ -1,6 +1,6 @@
 From: tuple
 ```python
-(a'',1)
+('a',1)
 ```
 
 To: dictionary
