@@ -5,5 +5,5 @@ From: tuple
 
 To: dictionary
 ``` python
-dict{(a,1)}
+{'a': 1}
 ```
